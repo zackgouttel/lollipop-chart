@@ -1,0 +1,20 @@
+{
+  "visual": {
+    "name": "lollipopchart",
+    "displayName": "Lollipop Chart",
+    "guid": "lollipopchartFB912CC46BF04F1D9F215415E5C5D3B1",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "I made this when i was learning how to make PBI Custom Visuals",
+    "supportUrl": "mailto:zackgouttel@gmail.com",
+    "gitHubUrl": "https://github.com/zackgouttel"
+  },
+  "apiVersion": "4.7.0",
+  "author": { "name": "Zakaria Gouttel", "email": "mailto:zackgouttel@gmail.com" },
+  "assets": { "icon": "assets/lollipop.png" },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
